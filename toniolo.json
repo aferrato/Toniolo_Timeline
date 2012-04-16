@@ -1,0 +1,630 @@
+{
+    "timeline":
+    {
+        "headline":"Giuseppe Toniolo",
+        "type":"default",
+		"startDate":"1845",
+		"text":"fonti",
+		"asset":
+        {
+            "media":"http://upload.wikimedia.org/wikipedia/it/thumb/8/88/Giuseppe_Toniolo.jpg/220px-Giuseppe_Toniolo.jpg",
+            "credit":"",
+            "caption":""
+        },
+        "date": [
+            {
+                "startDate":"1845,3,7",
+            	"endDate":"1845,3,7",
+                "headline":"Toniolo nasce a Treviso",
+            	"text":"<b>Giuseppe Toniolo</b> nasce a Treviso, nella parrocchia di Sant'Andrea, in una famiglia della buona borghesia veneta.",
+                "asset":
+                {
+                    "media":"img/chiesa_s_andrea.jpg",
+                    "credit":"",
+                    "caption":"Chiesa di Sant'Andrea oggi"
+                }
+            },
+            {
+                "startDate":"1846,6,16",
+            	"endDate":"1846,6,16",
+                "headline":"Papa Pio IX",
+            	"text":"Il card. <b>Giovanni Maria Mastai Ferretti</b> viene eletto Papa col nome di <b>Pio IX</b>",
+                "asset":
+                {
+                    "media":"img/papa_pio_ix.jpg",
+                    "credit":"",
+                    "caption":"Papa Pio IX"
+                }
+            },
+            {
+                "startDate":"1860,5,5",
+            	"endDate":"1860,5,5",
+                "headline":"Spedizione dei Mille",
+            	"text":"1088 uomini guidati da <b>Giuseppe Garibaldi</b> salpano da Quarto diretti in Sicilia.",
+                "asset":
+                {
+                    "media":"img/spedizione_mille.jpg",
+                    "credit":"",
+                    "caption":"Spedizione dei Mille"
+                }
+            },
+            {
+                "startDate":"1861,3,17",
+            	"endDate":"1861,3,17",
+                "headline":"Regno d'Italia",
+            	"text":"Il Parlamento Italiano proclama il regno di Italia, <b>Vittorio Emanuele II di Savoia</b> assume il titolo di re d'Italia.",
+                "asset":
+                {
+                    "media":"img/vittorio_emanuele_ii.jpg",
+                    "credit":"",
+                    "caption":"Vittorio Emanuele II di Savoia"
+                }
+            },
+            {
+                "startDate":"1866",
+            	"endDate":"1866",
+                "headline":"Terza Guerra di Indipendenza",
+            	"text":"L'Italia alleata alla Prussia dichiara guerra all'Austria. In seguito alla vittoria il Regno d'Italia annette il Veneto, il Friuli e la provincia di Mantova",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1867,6,27",
+            	"endDate":"1867,6,27",
+                "headline":"Laurea",
+            	"text":"Iscrittosi alla facoltà di Giurisprudenza dell'Università di Padova si laureò nel 1867.<br /><a data-toggle='modal' href='#laurea' class='btn btn-mini'>Documenti</a>",
+                "asset":
+                {
+                    "media":"img/giurisprudenza_padova.jpg",
+                    "credit":"",
+                    "caption":"Facoltà di Giurisprudenza Università di Padova"
+                }
+            },
+            {
+                "startDate":"1868,12,28",
+            	"endDate":"1868,12,28",
+                "headline":"Nominato Assistente",
+            	"text":"Fu nominato assistente alla cattedra giuridico-politica dell'Università di Padova, e confermato nei successivi quattro anni.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1869,12,8",
+            	"endDate":"1869,12,8",
+                "headline":"Concilio Vaticano I",
+            	"text":"<b>Papa Pio IX</b> apre ufficialmente il <b>Concilio Vaticano I</b> che si concluderà due anni dopo nel luglio del 1870.",
+                "asset":
+                {
+                    "media":"img/concilio_vaticano_i.jpg",
+                    "credit":"",
+                    "caption":"Concilio Vaticano I"
+                }
+            },
+            {
+                "startDate":"1870,9,20",
+            	"endDate":"1870,9,20",
+                "headline":"Breccia di Porta Pia",
+            	"text":"In seguito alla <b>Breccia di Porta Pia</b> Roma fu annessa al Regno d'Italia decretando al fine dello Stato Pontificio.<br />L'anno successivo la capitale d'Italia fu trasferita da Firenze a Roma.",
+                "asset":
+                {
+                    "media":"img/breccia_porta_pia.jpg",
+                    "credit":"",
+                    "caption":"Breccia di Porta Pia"
+                }
+            },
+            {
+                "startDate":"1873,12,23",
+            	"endDate":"1873,12,23",
+                "headline":"Tesi per la Libera Docenza",
+            	"text":"Toniolo presenta presso la Regia Università di Padova la tesi per la Libera Docenza sul tema: <b>\"Dell'elemento etico quale fattore intrinseco delle leggi economiche\"</b>.<br /><a data-toggle='modal' href='#decretoliberadocenza' class='btn btn-mini'>Documenti</a>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1874",
+            	"endDate":"1874",
+                "headline":"Non Expedit",
+            	"text":"<b>Papa Pio IX</b> esprime parere negativo e vieta ai cattolici di partecipare alle elezioni politiche dello Stato Italiano e di prender parte alla vita politica.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1874",
+            	"endDate":"1874",
+                "headline":"Insegna Economia Politica",
+            	"text":"Viene nominato professore reggente di economia politica, statistica e diritto amministrativo nel <b>Regio Istituto Tecnico di Venezia</b> conseguendo la titolarità nel 1876<br /><a data-toggle='modal' href='#dichiarazioneistitutovenezia' class='btn btn-mini'>Documenti</a>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1878,2,20",
+            	"endDate":"1878,2,20",
+                "headline":"Papa Leone XIII",
+            	"text":"Viene eletto Papa <b>Vincenzo Gioacchino Pecci</b>, prende il nome di <b>Leone XIII</b>.",
+                "asset":
+                {
+                    "media":"img/leone_XIII.jpg",
+                    "credit":"",
+                    "caption":"Papa Leone XIII"
+                }
+            },
+            {
+                "startDate":"1878,3,20",
+            	"endDate":"1878,3,20",
+                "headline":"Cattedra Economia Politica a Modena",
+            	"text":"Ottiene la cattedra di <b>Economia Politica</b> all'Università di Modena, ma la ricopre per breve tempo perché si trasferisce a Pisa.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1878,9,4",
+            	"endDate":"1878,9,4",
+                "headline":"Matrimonio",
+            	"text":"Sposa <b>Maria Schiratti</b> dalla quale avrà sette figli. <br />Il matrimonio fu celebrato con vero spirito cristiano, benedetti dal sacerdote Sebastiano De Zorzi i due si recaono a Roma per ricevere la Benedizione Apostolica da Papa Leone XIII.",
+                "asset":
+                {
+                    "media":"img/maria_schiratti.png",
+                    "credit":"",
+                    "caption":"Maria Schiratti, moglie di Toniolo"
+                }
+            },
+            {
+                "startDate":"1879,1,13",
+            	"endDate":"1879,1,13",
+                "headline":"Arrivo a Pisa",
+            	"text":"Con decreto Ministeriale passò ad insegnare economia politica all'Università di Pisa dove rimase fino al 1917.<br /><a data-toggle='modal' href='#decretocattedraeconomiapoliticapisa' class='btn btn-mini'>Documenti</a>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1881,4,7",
+            	"endDate":"1881,4,7",
+                "headline":"Nasce il figlio Antonio",
+            	"text":"Nasce a Pisa il figlio <b>Antonio Renato Toniolo</b>, sarà professore di Geografia generale all'Università di Bologna dall'a.a. 1936-1937.",
+                "asset":
+                {
+                    "media":"img/antonio_renato_toniolo.jpeg",
+                    "credit":"<br /><a href=\"http://www.archiviostorico.unibo.it/template/detailImmagini.asp?IDFolder=324&IDOggetto=27672&LN=IT&mCO=ucmPhhfuuj%2FJoufsp2%21BTD&mCW=&mCJ=\">archiviostorico.unibo.it</a>",
+                    "caption":"Antonio Renato Toniolo"
+                }
+            },
+            {
+                "startDate":"1882,3,17",
+            	"endDate":"1882,3,17",
+                "headline":"Professore Ordinario",
+            	"text":"Toniolo viene promosso a <b>professore ordinario dell'Università di Pisa</b>.<br /><a data-toggle='modal' href='#decretoprofessoreordinario' class='btn btn-mini'>Documenti</a>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1886,5,17",
+            	"endDate":"1886,5,17",
+                "headline":"Nasce la figlia Emilia",
+            	"text":"A Pisa nasce <b>Emilia</b>, diventerà suora e prenderà il nome di suor Maria Pia.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1889",
+            	"endDate":"1889",
+                "headline":"Unione cattolica per gli studi sociali",
+            	"text":"Giuseppe Toniolo fonda l'<b>Unione cattolica per gli studi sociali</b>.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1891,3,15",
+            	"endDate":"1891,3,15",
+                "headline":"Rerum Novarum",
+            	"text":"Papa <b>Leone XIII</b> promulga l'enciclica sociale con la quale per la prima volta la Chiesa cattolica prende posizione in ordine alle questioni sociali e fonda la moderna dottrina sociale cristiana",
+                "asset":
+                {
+                    "media":"img/rerum_novarum.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1893",
+            	"endDate":"1893",
+                "headline":"Rivista internazionale di scienze sociali e discipline ausiliarie",
+            	"text":"L'Unione sotto la direzione di mons. Salvatore Talamo e di Giuseppe Toniolo fonda la <b>Rivista internazionale di scienze sociali e discipline ausiliarie</b> che si proponeva di trattare «tutte le questioni molteplici che riguardavano l'ordine sociale cristiano».",
+                "asset":
+                {
+                    "media":"img/rivista_internazionale_scienze_sociali_discipline_ausiliarie.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1894,1,23",
+            	"endDate":"1894,1,23",
+                "headline":"Il programma dei cattolici di fronte al socialismo",
+            	"text":"L'Unione discute ed approva il testo redatto da Giuseppe Toniolo: <b>Il programma dei cattolici di fronte al socialismo</b>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1896",
+            	"endDate":"1896",
+                "headline":"Nasce la FUCI",
+            	"text":"Durante il XIV Congresso dei cattolici italiani, che si tiene a Fiesole viene fondata ufficialmente la <b>«Federazione Universitaria Cattolica Italiana»</b>",
+                "asset":
+                {
+                    "media":"img/fuci.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1903,8,4",
+            	"endDate":"1903,8,4",
+                "headline":"Papa Pio X",
+            	"text":"Viene eletto papa Giuseppe Sarto con il nome di <b>Pio X</b>.",
+                "asset":
+                {
+                    "media":"img/pio_X.jpg",
+                    "credit":"",
+                    "caption":"Papa Pio X"
+                }
+            },
+            {
+                "startDate":"1904,7,1",
+            	"endDate":"1904,7,1",
+                "headline":"Laurea del figlio Antonio",
+            	"text":"Giuseppe Toniolo, non presente alla laurea in Scienze Naturali del figlio per volere di quest'ultimo, gli scrive una lettera.<br /><a data-toggle='modal' href='#laureafiglioantonio' class='btn btn-mini'>Documenti</a>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1906",
+            	"endDate":"1906",
+                "headline":"Unione Popolare",
+            	"text":"È nominato presidente dell'<b>Unione Popolare</b> che ha il compito di coordinamento generale delle attività in campo cattolico.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1906,10,7",
+            	"endDate":"1906,10,7",
+                "headline":"Il figlio si sposa",
+            	"text":"Il figlio <b>Antonio</b>, unico maschio, si sposa con <b>Augusta Chisini</b> di Pieve di Soligo la coppia ebbe quattro figli: Giuseppe, Maria, Alberto, Gabriella, Gianfranco.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1907,9,23",
+            	"endDate":"1907,9,23",
+                "headline":"Settimane Sociali",
+            	"text":"Toniolo è artefice e promotore delle <b>Settimane Sociali</b>, la prima si svolse a Pistoia e ogni anno fino alla Prima guerra mondiale furono affrontati temi quali: il lavoro, la scuola, la condizione della donna, la famiglia.",
+                "asset":
+                {
+                    "media":"http://www.settimanesociali.it/siti/allegati/2064/1_SETTIMANA_SOCIALE%20_2_.pdf",
+                    "credit":"<br /><a href=\"http://www.settimanesociali.it/\" title=\"Settimane Sociali\">settimanesociali.it</a>",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1914,7,28",
+            	"endDate":"1914,7,28",
+                "headline":"Inizio Prima Guerra Mondiale",
+            	"text":"Scoppia la <b>Prima Guerra Mondiale</b>, l'Austria dichiara guerra alla Serbia in seguito all'assassinio dell'Arciduca Francesco Ferdiando.",
+                "asset":
+                {
+                    "media":"img/arciduca.jpeg",
+                    "credit":"",
+                    "caption":"Assassinio dell'Arciduca Francesco Ferdiando"
+                }
+            },
+            {
+                "startDate":"1914,9,3",
+            	"endDate":"1914,9,3",
+                "headline":"Papa Benedetto XV",
+            	"text":"<b>Giovanni Della Chiesa</b> viene eletto Papa e prende il nome di <b>Benedetto XV</b>.",
+                "asset":
+                {
+                    "media":"img/benedetto_XV.jpg",
+                    "credit":"",
+                    "caption":"Papa Benedetto XV"
+                }
+            },
+            {
+                "startDate":"1915,3,7",
+            	"endDate":"1915,3,7",
+                "headline":"Muore la figlia Maria Pia (Emilia)",
+            	"text":"A soli 28 anni muore <b>Maria Pia</b> religiosa del monastero della Visitazione di Treviso. Aveva intrapreso la vita consacrata solo cinque anni prima.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1915,5,23",
+            	"endDate":"1915,5,23",
+                "headline":"L'Italia entra in Guerra",
+            	"text":"L'<b>Italia</b> dichiara guerra all'<b>Impero Austro-Ungarico</b> e successivamente anche alla Germania. Il 24 Maggio fu sparato il primo colpo di cannone.",
+                "asset":
+                {
+                    "media":"img/italia_dichiara_guerra.jpeg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1918,10,7",
+            	"endDate":"1918,10,7",
+                "headline":"Muore a Pisa",
+            	"text":"In seguito ad una malattia che lo colpisce nel 1917, <b>muore a Pisa all'età di 73 anni</b>.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1918,11,4",
+            	"endDate":"1918,11,4",
+                "headline":"Vittoria italiana della Guerra",
+            	"text":"Il Generale <b>Armando Diaz</b> annuncia la sconfitta dell'esercito austro-ungarico leggendo il <b>Bollettino della Vittoria</b>.",
+                "asset":
+                {
+                    "media":"http://www.youtube.com/watch?v=JyMAkEJYQE8",
+                    "credit":"luoghistorici.com",
+                    "caption":"Bollettino della Vittoria"
+                }
+            },
+            {
+                "startDate":"1918,11,11",
+            	"endDate":"1918,11,11",
+                "headline":"Fine Prima Guerra Mondiale",
+            	"text":"La Germania depone le armi e firma l'armistizio ponendo fine al conflitto.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1920,2",
+            	"endDate":"1920,2",
+                "headline":"Istituto Toniolo",
+            	"text":"Nasce l'<b>Istituto Giuseppe Toniolo di Studi Superiori</b>, il 24 Giugno dello stesso anno ottiene il decreto di approvazione firmato dal Ministro della Pubblica Istruzione <b>Benedetto Croce</b>.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1921,12,7",
+            	"endDate":"1921,12,7",
+                "headline":"Innaugurazione Università Cattolica del Sacro Cuore",
+            	"text":"Con una Messa celebrata da <b>padre Agostino Gemelli</b> alla presenza del cardinale arcivescovo di Milano Achille Ratti, viene ufficialmente inaugurata l'<b>Università Cattolica del Sacro Cuore</b>.",
+                "asset":
+                {
+                    "media":"http://www.youtube.com/watch?v=sWYh-oGUMR8",
+                    "credit":"<br /><a href=\"http://unicattolica.it\" title=\"Università Cattolica\">unicattolica.it</a>",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1933,5,21",
+            	"endDate":"1933,5,21",
+                "headline":"Avvio Causa Beatificazione",
+            	"text":"La <b>FUCI</b>, durante un'assemblea dei presidenti si fece promotrice per l'avvio della <b>Causa di Beatificazione</b> scrivendo a  mons. Gabriele Vettori, Arcivescovo di Pisa, e a mons. Eugenio Beccegato, Vescovo di Ceneda (Vittorio Veneto), diocesi a cui appartiene Pieve di Soligo. Alla FUCI si aggregherà l'Azione Cattolica.<br /><a data-toggle='modal' href='#letterafucibeatificazione' class='btn btn-mini'>Documenti</a>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1934",
+            	"endDate":"1934",
+                "headline":"Processo Ordinario a Pisa",
+            	"text":"Accolta la richiesta dalla competente autorità si iniziano i processi informativi: dal 1934 al 1941 si svolse il Processo ordinario a Pisa, mentre alcuni processi si svolsero per rogatoria (Roma, Genova, Torino, Milano, Brescia, Ceneda).",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1940,9,30",
+            	"endDate":"1940,9,30",
+                "headline":"Salma traslata a Pieve di Soligo",
+            	"text":"La salma di Giuseppe Toniolo è esumata dalla tomba della famiglia Schiratti ed è traslata nella chisa di Pieve di Soligo. Sul sarcofago è scolpito: <i>Nuntiavi justitiam tuam in Ecclesia Magna - Juventuti lumen: Populi levamen</i>.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1942",
+            	"endDate":"1942",
+                "headline":"L'Università Cattolica del Sacro Cuore entra nel comitato",
+            	"text":"Al Comitato si aggiunge anche l'Università Cattolica del Sacro Cuore.<br /><a data-toggle='modal' href='#universitacattolicanelcomitato' class='btn btn-mini'>Documenti</a>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1951,12,14",
+            	"endDate":"1951,12,14",
+                "headline":"Processo Apostolico",
+            	"text":"<b>S. E. Mons. Ugo Comozzo</b> da il via al Processo Apostolico a Pisa (1951–54). Vengono istruiti altri processi a Roma (1951–53), a Vittorio Veneto (1951–53), a Milano (1951–54). Furono ascoltati 54 testi, tra essi: il card. Pizzardo, il card. Bevilacqua, don Luigi Sturzo, il conte Giuseppe Dalla Torre, la principessa Cristina Giustiniani e p. Agostino Gemelli.",
+                "asset":
+                {
+                    "media":"foto da libro",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1971,6,14",
+            	"endDate":"1971,6,14",
+                "headline":"Proclamato Venerabile",
+            	"text":"Papa <b>Paolo VI</b> emana il decreto di eroicità delle virtù proclamando Giuseppe Toniolo Venerabile.",
+                "asset":
+                {
+                    "media":"http://www.giuseppetoniolo.net/causa/1933-2012/DecretoTonioloVenerabile.pdf",
+                    "credit":"",
+                    "caption":"Decreto Super Virtutibus"
+                }
+            },
+            {
+                "startDate":"2000,3,29",
+            	"endDate":"2000,3,29",
+                "headline":"Si ricostituisce il Comitato",
+            	"text":"Con un incontro alle Domus Mariae promosso dall'Azione Cattolica viene ricostituito il Comitato per la Beatificazione.<br /><a data-toggle='modal' href='#ricostituzionecomitatobeatificazione' class='btn btn-mini'>Membri Comitato</a>",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2006,6,3",
+            	"endDate":"2006,6,3",
+                "headline":"Francesco Bortolini in coma",
+            	"text":"Durante la festa della birra a Barbisano, nella notte tra il 3 e il 4 giugno, <b>Francesco Bortolini</b> cade dall'alto di una rete. I medici lo dichiarano irrecuperabile.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2006,6,7",
+            	"endDate":"2006,6,7",
+                "headline":"Consegna della Reliquia del venerabile Toniolo",
+            	"text":"Il parroco don Giuseppe Nadal consegna un'immaginetta con una reliquia, un filo della coperta di Toniolo, che viene posta sulla spalliera del letto del ragazzo.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2006,6,11",
+            	"endDate":"2006,6,11",
+                "headline":"Francesco si sveglia dal coma",
+            	"text":"Il parroco di Pieve di Soligo propone di iniziare una novena, quando la comunità è invitata a pregare il venerabile Toniolo, Francesco inizia a svegliarsi e poco dopo sarà dimesso dall'ospedale.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2011,1,14",
+            	"endDate":"2011,1,14",
+                "headline":"Benedetto XVI autorizza il decreto riguardante il miracolo",
+            	"text":"Papa <b>Benedetto XVI</b>, ricevendo in udienza il <b>card. Angelo Amato</b>, prefetto della Congregazione delle Cause dei Santi, ha autorizzato la promulgazione dei decreti riguardanti il miracolo attribuito a Toniolo.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2011,9,20",
+            	"endDate":"2011,9,20",
+                "headline":"La salma viene riesumata",
+            	"text":"Nel duomo di Pieve di Soligo viene riesumata la salma di Giuseppe Toniolo. Dopo la riesumazione è iniziata la ricognizione dei medici: «La conservazione delle ossa pare in buone condizioni ed abbiamo trovato in buono stato anche pezzi di vestito»",
+                "asset":
+                {
+                    "media":"http://www.youtube.com/watch?v=qjSs6_gFU8g",
+                    "credit":"<br /><a href=\"http://telechiara.it\" title=\"telechiara\">telechiara.it</a>",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2011,10,7",
+            	"endDate":"2011,10,7",
+                "headline":"I resti mortali vengono traslati",
+            	"text":"I resti mortali del Toniolo vengono traslati in un'urna nel duomo di Pieve di Soligo dopo la ricognizione canonica in vista della beatificazione.<br />La celebrazione è presieduta da <b>S. E. Mons. Giovanni Paolo Benotto</b>.",
+                "asset":
+                {
+                    "media":"http://www.youtube.com/watch?v=pkpfYFnmyTA",
+                    "credit":"<br /><a href=\"http://telechiara.it\" title=\"telechiara\">telechiara.it</a>",
+                    "caption":""
+                }
+            }   
+            
+        ]
+    }
+}
